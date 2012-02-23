@@ -9,4 +9,9 @@ class Attendee < ActiveRecord::Base
   def self.get_all_attendees
     find(:all)
   end
+  # Paperclip
+  has_attached_file :avatar,:styles => {:thumb=> "150x150#"}
+
 end
+
+
