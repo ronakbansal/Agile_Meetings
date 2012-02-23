@@ -7,4 +7,5 @@ class CreateAttendees < ActiveRecord::Migration
       t.timestamps
     end
   end
+
 end

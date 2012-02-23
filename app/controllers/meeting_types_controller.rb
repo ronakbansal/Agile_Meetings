@@ -119,6 +119,7 @@ class MeetingTypesController < ApplicationController
       format.json { head :ok }
     end
   end
+  before_filter :authenticate_user!
 end
 
 

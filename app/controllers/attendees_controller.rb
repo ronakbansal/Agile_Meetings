@@ -41,6 +41,9 @@ class AttendeesController < ApplicationController
   # POST /attendees
   # POST /attendees.json
   def create
+#   @user = Attendee.create( params[:user] )
+logger.info "=================create========#{params[:attendee].inspect}"
+
     @attendee = Attendee.new(params[:attendee])
 
     respond_to do |format|
@@ -81,4 +84,5 @@ class AttendeesController < ApplicationController
       format.json { head :ok }
     end
   end
+  before_filter :authenticate_user!
 end

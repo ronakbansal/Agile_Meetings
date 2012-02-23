@@ -6,4 +6,30 @@
             <line>12</line>
         </file>
     </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/D:/workspace/Agile_Meetings/Gemfile</file>
+        <file>file:/D:/workspace/Agile_Meetings/Rakefile</file>
+        <file>file:/D:/workspace/Agile_Meetings/db/migrate/20111209140802_create_meeting_types.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/db/migrate/20120108110153_create_attendees.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/db/migrate/20120108112826_create_attendee_meeting_type_join_table.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/db/migrate/20120207143024_add_agenda_to_meetings.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/db/schema.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/db/seeds.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/config/database.yml</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/views/layouts/application.html.erb</file>
+        <file>file:/D:/workspace/Agile_Meetings/config/routes.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/controllers/meetings_controller.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/config/environments/production.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/config/environments/test.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/config/environment.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/models/user.rb</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/views/devise/registrations/new.html.erb</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/assets/stylesheets/attendees.css.scss</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/views/attendees/index.html.erb</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/views/attendees/_form.html.erb</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/views/attendees/edit.html.erb</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/views/attendees/show.html.erb</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/views/attendees/new.html.erb</file>
+        <file>file:/D:/workspace/Agile_Meetings/app/assets/stylesheets/style.css</file>
+    </open-files>
 </project-private>
